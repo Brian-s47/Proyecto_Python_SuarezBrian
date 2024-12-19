@@ -1,0 +1,3706 @@
+{
+    "Campers": {
+        "camper1": {
+            "numIdentificacion": "123456789",
+            "nombres": "Camilo",
+            "apellidos": "G\u00c3\u00b3mez",
+            "direccion": "Calle 123 # 456",
+            "acudiente": "Juan G\u00c3\u00b3mez",
+            "celular": "3123456789",
+            "fijo": "5551234",
+            "estado": "Cursando",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                85,
+                92
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        80,
+                        85,
+                        90,
+                        80
+                        
+                    ],
+                    "proyecto": 95,
+                    "examen": 88,
+                    "notaModulo": 88
+                },
+                "mod2": {
+                    "quisTrab": [
+                        75,
+                        82,
+                        78
+                    ],
+                    "proyecto": 80,
+                    "examen": 70,
+                    "notaModulo": 76
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        95,
+                        85
+                    ],
+                    "proyecto": 92,
+                    "examen": 98,
+                    "notaModulo": 92
+                },
+                "mod4": {
+                    "quisTrab": [
+                        70,
+                        78,
+                        80
+                    ],
+                    "proyecto": 75,
+                    "examen": 72,
+                    "notaModulo": 74
+                },
+                "mod5": {
+                    "quisTrab": [
+                        88,
+                        90,
+                        85
+                    ],
+                    "proyecto": 88,
+                    "examen": 90,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        65,
+                        70,
+                        68
+                    ],
+                    "proyecto": 72,
+                    "examen": 60,
+                    "notaModulo": 66
+                },
+                "mod7": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 96,
+                    "notaModulo": 96
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper2": {
+            "numIdentificacion": "987654321",
+            "nombres": "Sofia",
+            "apellidos": "P\u00c3\u00a9rez",
+            "direccion": "Carrera 7 # 12-34",
+            "acudiente": "Maria P\u00c3\u00a9rez",
+            "celular": "3112345678",
+            "fijo": "5555678",
+            "estado": "Cursando",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                98,
+                76
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        90
+                    ],
+                    "proyecto": 95,
+                    "examen": 88,
+                    "notaModulo": 87
+                },
+                "mod2": {
+                    "quisTrab": [
+                        65,
+                        72,
+                        78
+                    ],
+                    "proyecto": 80,
+                    "examen": 70,
+                    "notaModulo": 71
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        95,
+                        85
+                    ],
+                    "proyecto": 92,
+                    "examen": 98,
+                    "notaModulo": 92
+                },
+                "mod4": {
+                    "quisTrab": [
+                        70,
+                        78,
+                        80
+                    ],
+                    "proyecto": 75,
+                    "examen": 72,
+                    "notaModulo": 74
+                },
+                "mod5": {
+                    "quisTrab": [
+                        88,
+                        90,
+                        85
+                    ],
+                    "proyecto": 88,
+                    "examen": 90,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        65,
+                        70,
+                        68
+                    ],
+                    "proyecto": 72,
+                    "examen": 60,
+                    "notaModulo": 66
+                },
+                "mod7": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 96,
+                    "notaModulo": 96
+                },
+                "mod8": {
+                    "quisTrab": [
+                        85,
+                        80,
+                        82
+                    ],
+                    "proyecto": 84,
+                    "examen": 88,
+                    "notaModulo": 85
+                },
+                "mod9": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod10": {
+                    "quisTrab": [
+                        90,
+                        95,
+                        92
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "notaFinal": 82
+            }
+        },
+        "camper3": {
+            "numIdentificacion": "456789123",
+            "nombres": "David",
+            "apellidos": "Rodriguez",
+            "direccion": "Avenida 20 # 10-15",
+            "acudiente": "Pedro Rodriguez",
+            "celular": "3213456789",
+            "fijo": "5559876",
+            "estado": "Rechazado",
+            "grupo": "ninguno",
+            "riesgo": "ninguno",
+            "notasIngreso": [
+                65,
+                92
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod2": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper4": {
+            "numIdentificacion": "789123456",
+            "nombres": "Laura",
+            "apellidos": "Garcia",
+            "direccion": "Calle 5 # 10-20",
+            "acudiente": "Ana Garcia",
+            "celular": "3101234567",
+            "fijo": "5553456",
+            "estado": "Cursando",
+            "grupo": "grupo4",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                82,
+                70
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod2": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod3": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod4": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod5": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod6": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod7": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod8": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod9": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "mod10": {
+                    "quisTrab": [
+                        10,
+                        10,
+                        10
+                    ],
+                    "proyecto": 10,
+                    "examen": 10,
+                    "notaModulo": 10
+                },
+                "notaFinal": 10
+            }
+        },
+        "camper5": {
+            "numIdentificacion": "147258369",
+            "nombres": "Juan",
+            "apellidos": "Lopez",
+            "direccion": "Carrera 10 # 15-20",
+            "acudiente": "Carlos Lopez",
+            "celular": "3001234567",
+            "fijo": "5557890",
+            "estado": "Graduado",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                90,
+                85
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod2": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod3": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod4": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod5": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod6": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod7": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod8": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod9": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "mod10": {
+                    "quisTrab": [
+                        61,
+                        61,
+                        61
+                    ],
+                    "proyecto": 61,
+                    "examen": 61,
+                    "notaModulo": 61
+                },
+                "notaFinal": 61
+            }
+        },
+        "camper6": {
+            "numIdentificacion": "258369147",
+            "nombres": "Maria",
+            "apellidos": "Martinez",
+            "direccion": "Calle 20 # 10-10",
+            "acudiente": "Isabel Martinez",
+            "celular": "3141234567",
+            "fijo": "5551234",
+            "estado": "Reprobado",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                75,
+                88
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 9402,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod2": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod3": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod4": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod5": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod6": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod7": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod8": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod9": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "mod10": {
+                    "quisTrab": [
+                        40,
+                        40,
+                        40
+                    ],
+                    "proyecto": 40,
+                    "examen": 40,
+                    "notaModulo": 40
+                },
+                "notaFinal": 40
+            }
+        },
+        "camper7": {
+            "numIdentificacion": "369147258",
+            "nombres": "Pedro",
+            "apellidos": "Hernandez",
+            "direccion": "Carrera 15 # 10-10",
+            "acudiente": "Miguel Hernandez",
+            "celular": "3151234567",
+            "fijo": "5555678",
+            "estado": "Expulsado",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                82,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        88,
+                        90,
+                        85
+                    ],
+                    "proyecto": 92,
+                    "examen": 86,
+                    "notaModulo": 89
+                },
+                "mod2": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod4": {
+                    "quisTrab": [
+                        70,
+                        75,
+                        72
+                    ],
+                    "proyecto": 78,
+                    "examen": 70,
+                    "notaModulo": 72
+                },
+                "mod5": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper8": {
+            "numIdentificacion": "472583691",
+            "nombres": "Ana",
+            "apellidos": "Gonzalez",
+            "direccion": "Calle 10 # 10-15",
+            "acudiente": "Lucia Gonzalez",
+            "celular": "3161234567",
+            "fijo": "5559876",
+            "estado": "Retirado",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                75,
+                82
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        88,
+                        90,
+                        85
+                    ],
+                    "proyecto": 92,
+                    "examen": 86,
+                    "notaModulo": 89
+                },
+                "mod2": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        98
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod4": {
+                    "quisTrab": [
+                        68,
+                        72,
+                        65
+                    ],
+                    "proyecto": 75,
+                    "examen": 64,
+                    "notaModulo": 68
+                },
+                "mod5": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod6": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod7": {
+                    "quisTrab": [
+                        92,
+                        95,
+                        90
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper9": {
+            "numIdentificacion": "583691472",
+            "nombres": "Carlos",
+            "apellidos": "Rodriguez",
+            "direccion": "Carrera 20 # 15-10",
+            "acudiente": "Jose Rodriguez",
+            "celular": "3171234567",
+            "fijo": "5553456",
+            "estado": "Inscrito",
+            "grupo": "ninguno",
+            "riesgo": "ninguno",
+            "notasIngreso": [],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod2": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper10": {
+            "numIdentificacion": "691472583",
+            "nombres": "Isabel",
+            "apellidos": "Garcia",
+            "direccion": "Calle 15 # 10-10",
+            "acudiente": "Maria Garcia",
+            "celular": "3181234567",
+            "fijo": "5557890",
+            "estado": "Aprobado",
+            "grupo": "ninguno",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                85,
+                92
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod2": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper11": {
+            "numIdentificacion": "725836914",
+            "nombres": "Miguel",
+            "apellidos": "Lopez",
+            "direccion": "Carrera 25 # 10-10",
+            "acudiente": "Pedro Lopez",
+            "celular": "3191234567",
+            "fijo": "5551234",
+            "estado": "Rechazado",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                20,
+                20
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod2": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper12": {
+            "numIdentificacion": "836914725",
+            "nombres": "Lucia",
+            "apellidos": "Martinez",
+            "direccion": "Calle 25 # 15-10",
+            "acudiente": "Ana Martinez",
+            "celular": "3201234567",
+            "fijo": "5555678",
+            "estado": "Cursando",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                78,
+                82
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod2": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod4": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod5": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper13": {
+            "numIdentificacion": "914725836",
+            "nombres": "Jose",
+            "apellidos": "Hernandez",
+            "direccion": "Carrera 30 # 10-10",
+            "acudiente": "Juan Hernandez",
+            "celular": "3211234567",
+            "fijo": "5559876",
+            "estado": "Graduado",
+            "grupo": "grupo1",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                85,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod2": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod3": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod4": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod5": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod6": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod7": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod8": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod9": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 88
+            }
+        },
+        "camper14": {
+            "numIdentificacion": "172583691",
+            "nombres": "Ana",
+            "apellidos": "Gonzalez",
+            "direccion": "Calle 30 # 15-10",
+            "acudiente": "Maria Gonzalez",
+            "celular": "3221234567",
+            "fijo": "5553456",
+            "estado": "Reprobado",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                88,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod2": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod3": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod4": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod5": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod6": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod7": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod8": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod9": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "mod10": {
+                    "quisTrab": [
+                        20,
+                        20,
+                        20
+                    ],
+                    "proyecto": 20,
+                    "examen": 20,
+                    "notaModulo": 20
+                },
+                "notaFinal": 20
+            }
+        },
+        "camper15": {
+            "numIdentificacion": "283691472",
+            "nombres": "Juan",
+            "apellidos": "Rodriguez",
+            "direccion": "Carrera 35 # 10-10",
+            "acudiente": "Carlos Rodriguez",
+            "celular": "3231234567",
+            "fijo": "5557890",
+            "estado": "Cursando",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                85,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod2": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        },
+        "camper16": {
+            "numIdentificacion": "391472583",
+            "nombres": "Maria",
+            "apellidos": "Garcia",
+            "direccion": "Calle 35 # 15-10",
+            "acudiente": "Isabel Garcia",
+            "celular": "3241234567",
+            "fijo": "5551234",
+            "estado": "Retirado",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                88,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod4": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod5": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod6": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod7": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod10": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "notaFinal": 89
+            }
+        },
+        "camper17": {
+            "numIdentificacion": "414725836",
+            "nombres": "Pedro",
+            "apellidos": "Lopez",
+            "direccion": "Carrera 40 # 10-10",
+            "acudiente": "Miguel Lopez",
+            "celular": "3251234567",
+            "fijo": "5555678",
+            "estado": "Inscrito",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                82,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod2": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod5": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod6": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod7": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod8": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod9": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod10": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "notaFinal": 88
+            }
+        },
+        "camper18": {
+            "numIdentificacion": "525836914",
+            "nombres": "Ana",
+            "apellidos": "Martinez",
+            "direccion": "Calle 40 # 15-10",
+            "acudiente": "Lucia Martinez",
+            "celular": "3261234567",
+            "fijo": "5559876",
+            "estado": "Aprobado",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                85,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod5": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod6": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod7": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod8": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod9": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod10": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "notaFinal": 89
+            }
+        },
+        "camper19": {
+            "numIdentificacion": "636914725",
+            "nombres": "Juan",
+            "apellidos": "Hernandez",
+            "direccion": "Carrera 45 # 10-10",
+            "acudiente": "Jose Hernandez",
+            "celular": "3271234567",
+            "fijo": "5553456",
+            "estado": "Rechazado",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                80,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod2": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod5": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod7": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 87
+            }
+        },
+        "camper20": {
+            "numIdentificacion": "747258369",
+            "nombres": "Maria",
+            "apellidos": "Gonzalez",
+            "direccion": "Calle 45 # 15-10",
+            "acudiente": "Maria Gonzalez",
+            "celular": "3281234567",
+            "fijo": "5557890",
+            "estado": "Cursando",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                85,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod4": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod5": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod6": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod7": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod8": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod9": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod10": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "notaFinal": 88
+            }
+        },
+        "camper21": {
+            "numIdentificacion": "858369147",
+            "nombres": "Carlos",
+            "apellidos": "Rodriguez",
+            "direccion": "Carrera 50 # 10-10",
+            "acudiente": "Carlos Rodriguez",
+            "celular": "3291234567",
+            "fijo": "5551234",
+            "estado": "Graduado",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                80,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod2": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod5": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod7": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 87
+            }
+        },
+        "camper22": {
+            "numIdentificacion": "969147258",
+            "nombres": "Isabel",
+            "apellidos": "Garcia",
+            "direccion": "Calle 50 # 15-10",
+            "acudiente": "Isabel Garcia",
+            "celular": "3301234567",
+            "fijo": "5555678",
+            "estado": "Reprobado",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                82,
+                92,
+                90,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod2": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod5": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod6": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod7": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod10": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "notaFinal": 89
+            }
+        },
+        "camper23": {
+            "numIdentificacion": "191472583",
+            "nombres": "Miguel",
+            "apellidos": "Lopez",
+            "direccion": "Carrera 55 # 10-10",
+            "acudiente": "Miguel Lopez",
+            "celular": "3311234567",
+            "fijo": "5559876",
+            "estado": "Expulsado",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                80,
+                90,
+                92,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod2": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod4": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod5": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod6": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod7": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod8": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod9": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 86
+            }
+        },
+        "camper24": {
+            "numIdentificacion": "214725836",
+            "nombres": "Lucia",
+            "apellidos": "Martinez",
+            "direccion": "Calle 55 # 15-10",
+            "acudiente": "Lucia Martinez",
+            "celular": "3321234567",
+            "fijo": "5553456",
+            "estado": "Retirado",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                92,
+                90,
+                95,
+                98
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod2": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod3": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod4": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod5": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod7": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod8": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod9": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 92
+            }
+        },
+        "camper25": {
+            "numIdentificacion": "325836914",
+            "nombres": "Jose",
+            "apellidos": "Hernandez",
+            "direccion": "Carrera 60 # 10-10",
+            "acudiente": "Jose Hernandez",
+            "celular": "3331234567",
+            "fijo": "5557890",
+            "estado": "Inscrito",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                98,
+                95,
+                92,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod5": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod6": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod7": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod8": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod9": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 90
+            }
+        },
+        "camper26": {
+            "numIdentificacion": "436914725",
+            "nombres": "Ana",
+            "apellidos": "Gonzalez",
+            "direccion": "Calle 60 # 15-10",
+            "acudiente": "Maria Gonzalez",
+            "celular": "3341234567",
+            "fijo": "5551234",
+            "estado": "Aprobado",
+            "grupo": "grupo2",
+            "riesgo": "trabaja",
+            "notasIngreso": [
+                95,
+                92,
+                98,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod2": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod3": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod4": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod5": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod6": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod7": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod8": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod9": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod10": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "notaFinal": 94
+            }
+        },
+        "camper27": {
+            "numIdentificacion": "547258369",
+            "nombres": "Juan",
+            "apellidos": "Rodriguez",
+            "direccion": "Carrera 65 # 10-10",
+            "acudiente": "Carlos Rodriguez",
+            "celular": "3351234567",
+            "fijo": "5555678",
+            "estado": "Rechazado",
+            "grupo": "grupo3",
+            "riesgo": "tiene hijos",
+            "notasIngreso": [
+                92,
+                98,
+                90,
+                95
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod4": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod5": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod6": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod7": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 92
+            }
+        },
+        "camper28": {
+            "numIdentificacion": "658369147",
+            "nombres": "Maria",
+            "apellidos": "Garcia",
+            "direccion": "Calle 65 # 15-10",
+            "acudiente": "Isabel Garcia",
+            "celular": "3361234567",
+            "fijo": "5559876",
+            "estado": "Cursando",
+            "grupo": "grupo4",
+            "riesgo": "estudia",
+            "notasIngreso": [
+                98,
+                90,
+                95,
+                92
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod2": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod3": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod4": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod5": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod6": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod7": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod8": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod9": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod10": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "notaFinal": 96
+            }
+        },
+        "camper29": {
+            "numIdentificacion": "769147258",
+            "nombres": "Pedro",
+            "apellidos": "Lopez",
+            "direccion": "Carrera 70 # 10-10",
+            "acudiente": "Miguel Lopez",
+            "celular": "3371234567",
+            "fijo": "5553456",
+            "estado": "Graduado",
+            "grupo": "grupo1",
+            "riesgo": "bajo rendimiento",
+            "notasIngreso": [
+                95,
+                92,
+                90,
+                98
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [
+                        78,
+                        82,
+                        75
+                    ],
+                    "proyecto": 80,
+                    "examen": 76,
+                    "notaModulo": 78
+                },
+                "mod2": {
+                    "quisTrab": [
+                        82,
+                        85,
+                        88
+                    ],
+                    "proyecto": 88,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "mod3": {
+                    "quisTrab": [
+                        75,
+                        80,
+                        78
+                    ],
+                    "proyecto": 82,
+                    "examen": 74,
+                    "notaModulo": 77
+                },
+                "mod4": {
+                    "quisTrab": [
+                        62,
+                        68,
+                        65
+                    ],
+                    "proyecto": 70,
+                    "examen": 60,
+                    "notaModulo": 65
+                },
+                "mod5": {
+                    "quisTrab": [
+                        85,
+                        88,
+                        90
+                    ],
+                    "proyecto": 90,
+                    "examen": 86,
+                    "notaModulo": 88
+                },
+                "mod6": {
+                    "quisTrab": [
+                        92,
+                        98,
+                        95
+                    ],
+                    "proyecto": 96,
+                    "examen": 94,
+                    "notaModulo": 95
+                },
+                "mod7": {
+                    "quisTrab": [
+                        72,
+                        78,
+                        80
+                    ],
+                    "proyecto": 80,
+                    "examen": 74,
+                    "notaModulo": 76
+                },
+                "mod8": {
+                    "quisTrab": [
+                        90,
+                        92,
+                        95
+                    ],
+                    "proyecto": 98,
+                    "examen": 94,
+                    "notaModulo": 94
+                },
+                "mod9": {
+                    "quisTrab": [
+                        98,
+                        95,
+                        92
+                    ],
+                    "proyecto": 99,
+                    "examen": 96,
+                    "notaModulo": 97
+                },
+                "mod10": {
+                    "quisTrab": [
+                        82,
+                        88,
+                        85
+                    ],
+                    "proyecto": 90,
+                    "examen": 84,
+                    "notaModulo": 86
+                },
+                "notaFinal": 94
+            }
+        },
+        "camper30": {
+            "numIdentificacion": "1098325345",
+            "nombres": "qwer asdf",
+            "apellidos": "qwer asdf",
+            "direccion": "qwerfvb ",
+            "acudiente": "ihjmyum",
+            "celular": "123476546",
+            "fijo": "12345467",
+            "estado": "Aprobado",
+            "grupo": "Ninguno",
+            "riesgo": "Ninguno",
+            "notasIngreso": [
+                100,
+                90
+            ],
+            "notas": {
+                "mod1": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod2": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod3": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod4": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod5": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod6": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod7": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod8": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod9": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "mod10": {
+                    "quisTrab": [],
+                    "proyecto": 0,
+                    "examen": 0,
+                    "notaModulo": 0
+                },
+                "notaFinal": 0
+            }
+        }
+    },
+    "trainers": {
+        "trainer1": {
+            "numIdentificacion": "1234567890",
+            "nombresTrainer": "Juan",
+            "apellidosTrainer": "P\u00c3\u00a9rez",
+            "direccionTrainer": "Calle Principal 123",
+            "celularTrainer": "1234567890",
+            "telFijoTrainer": "9876543210",
+            "estadoTrainer": "Activo",
+            "rutasEntrenamiento": [
+                "Ruta NodeJS",
+                "Ruta Java"
+            ]
+        },
+        "trainer2": {
+            "numIdentificacion": "9876543210",
+            "nombresTrainer": "Mar\u00c3\u00ada",
+            "apellidosTrainer": "Gonz\u00c3\u00a1lez",
+            "direccionTrainer": "Avenida Central 456",
+            "celularTrainer": "9876543210",
+            "telFijoTrainer": "1234567890",
+            "estadoTrainer": "Activo",
+            "rutasEntrenamiento": [
+                "Ruta NetCore"
+            ]
+        },
+        "trainer3": {
+            "numIdentificacion": "9876543456",
+            "nombresTrainer": "Pedro",
+            "apellidosTrainer": "Rodr\u00c3\u00adguez",
+            "direccionTrainer": "Calle Secundaria 789",
+            "celularTrainer": "1111111111",
+            "telFijoTrainer": "9999999999",
+            "estadoTrainer": "Activo",
+            "rutasEntrenamiento": [
+                "Ruta NodeJS",
+                "Ruta Java"
+            ]
+        },
+        "trainer4": {
+            "numIdentificacion": "134534579",
+            "nombresTrainer": "Ana",
+            "apellidosTrainer": "Garc\u00c3\u00ada",
+            "direccionTrainer": "Avenida Principal 1011",
+            "celularTrainer": "2222222222",
+            "telFijoTrainer": "8888888888",
+            "estadoTrainer": "Despedido",
+            "rutasEntrenamiento": [
+                "Ruta NetCore"
+            ]
+        }
+    },
+    "coordinadores": {
+        "coordinador0": {
+            "numIdentificacion": "a",
+            "nombresCoordinador": "aaaaaaaaaa",
+            "apellidosCoordinador": "aaaaaaaaaa",
+            "direccionCoordinador": "aaaaaaaaaaa",
+            "celularCoordinador": "aaaaaaaaaaa",
+            "telFijoCoordinador": "aaaaaaaaaaa",
+            "estadoCoordinador": "Activo"
+        },
+        "coordinador1": {
+            "numIdentificacion": "1234567890",
+            "nombresCoordinador": "Carlos",
+            "apellidosCoordinador": "Mart\u00c3\u00adnez",
+            "direccionCoordinador": "Calle Principal 123",
+            "celularCoordinador": "1234567890",
+            "telFijoCoordinador": "9876543210",
+            "estadoCoordinador": "Activo"
+        },
+        "coordinador2": {
+            "numIdentificacion": "9876543210",
+            "nombresCoordinador": "Laura",
+            "apellidosCoordinador": "L\u00c3\u00b3pez",
+            "direccionCoordinador": "Avenida Central 456",
+            "celularCoordinador": "9876543210",
+            "telFijoCoordinador": "1234567890",
+            "estadoCoordinador": "Incapacitado"
+        },
+        "coordinador3": {
+            "numIdentificacion": "1111111111",
+            "nombresCoordinador": "Miguel",
+            "apellidosCoordinador": "S\u00c3\u00a1nchez",
+            "direccionCoordinador": "Calle Secundaria 789",
+            "celularCoordinador": "1111111111",
+            "telFijoCoordinador": "9999999999",
+            "estadoCoordinador": "Vacaciones"
+        },
+        "coordinador4": {
+            "numIdentificacion": "2222222222",
+            "nombresCoordinador": "Sofia",
+            "apellidosCoordinador": "Hern\u00c3\u00a1ndez",
+            "direccionCoordinador": "Avenida Principal 1011",
+            "celularCoordinador": "2222222222",
+            "telFijoCoordinador": "8888888888",
+            "estadoCoordinador": "Renuncio"
+        }
+    },
+    "grupos": {
+        "grupo1": {
+            "LimCampers": 33,
+            "trainerAsignado": "1234567890",
+            "salon": "Apolo",
+            "horario": "1AM",
+            "ruta": "Ruta Java",
+            "campers": [
+                123456789
+            ]
+        },
+        "grupo2": {
+            "LimCampers": 33,
+            "trainerAsignado": "9876543456",
+            "salon": "Spuknik",
+            "horario": "2AM",
+            "ruta": "Ruta Java",
+            "campers": [
+                987654321
+            ]
+        },
+        "grupo3": {
+            "LimCampers": 33,
+            "trainerAsignado": "9876543210",
+            "salon": "Artemis",
+            "horario": "1PM",
+            "ruta": "Ruta NetCore",
+            "campers": [
+                283691472
+            ]
+        },
+        "grupo4": {
+            "LimCampers": 31,
+            "trainerAsignado": "1234567890",
+            "salon": "Apolo",
+            "horario": "2PM",
+            "ruta": "Ruta Java",
+            "campers": [
+                3101234567,
+                836914725
+            ]
+        },
+        "grupo5": {
+            "LimCampers": 33,
+            "trainerAsignado": "9876543210",
+            "salon": "Spuknik",
+            "horario": "2PM",
+            "ruta": "Ruta NetCore",
+            "campers": []
+        },
+        "grupo6": {
+            "LimCampers": 33,
+            "trainerAsignado": "9876543456",
+            "salon": "Artemis",
+            "horario": "1AM",
+            "ruta": "Ruta NodeJS",
+            "campers": []
+        }
+    },
+    "rutasEntrenamiento": {
+        "ruta1": "Ruta NodeJS",
+        "ruta2": "Ruta Java",
+        "ruta3": "Ruta NetCore"
+    },
+    "infraestructura": {
+        "Apolo": {
+            "1AM": "grupo1",
+            "2AM": "ninguno",
+            "1PM": "ninguno",
+            "2PM": "grupo4"
+        },
+        "Spuknik": {
+            "1AM": "ninguno",
+            "2AM": "grupo2",
+            "1PM": "ninguno",
+            "2PM": "grupo5"
+        },
+        "Artemis": {
+            "1AM": "grupo6",
+            "2AM": "ninguno",
+            "1PM": "grupo3",
+            "2PM": "ninguno"
+        }
+    }
+}
