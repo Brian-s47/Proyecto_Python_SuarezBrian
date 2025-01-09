@@ -1,47 +1,31 @@
 # CampusLands-ERP
-programa que le permita llevar el seguimiento académico de todos los campers que se encuentran matriculados en el programa intensivo de programación.
 
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Sección 1 |
-| 2 | Sección 2 |
-| 3 | Sección 3 |
-| 4 | Sección 4 |
-| 5 | Sección 5 |
+| 1 | Descripcion |
+| 2 | Obgetivos |
+| 3 | Links Importantes |
 
-### Instalaciones
-Para descargar el programa completo en el siguiente link:
-https://drive.google.com/drive/folders/19c4-jvHvIiiLxOpXjXwfuuUjRq3ZFLIY?usp=drive_link
+### Descripcion:
 
-```bash
-sudo apt install app
-```
+Programa que le permita llevar el seguimiento académico de todos los campers que se encuentran matriculados en el programa intensivo de programación.
 
-### Como se juega 
-![imagen gato](./gato.png)
+### Obgetivos:
 
-### Sección 
-- Ítem 1
-- Ítem 2
-- Ítem 3
+Se busca como obgetivo evaluar loc ocnocimientos de python adquiridos mediante SCRUD , Para el manejo de listas y directorio, archivos JSON, y manejo general de comandos basicos del lenguaje
+estudiado
 
 Hecho por [algunapersona](https://algunapersonaenestemundo)
 
->Este texto será una cita.
+### Links Importantes:
 
-> [!NOTE]
->Esto es una nota especial
+Hecho por [algunapersona](https://algunapersonaenestemundo)
 
-> [!TIP]
-> Esto es un tip
-
-> [!IMPORTANT]  
 > Se subio el video de la sustentacion en el siguiente link:
 > https://drive.google.com/file/d/1Zo80WDGsEgEEmpZMvi9uNzeRzImDG2uV/view?usp=sharing
 
 > [!WARNING]  
-> Esto es una alerta
+> El programa no esta fianlizado en su totalidad.
 
-> [!CAUTION]
-> Esto es una advertencia
+
